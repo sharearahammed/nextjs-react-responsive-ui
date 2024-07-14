@@ -17,7 +17,7 @@ const Navbar = () => {
             />
           </a>
 
-          {/* Mobile menu button */}
+          {/* Mobile menu button */} 
           <div className="flex gap-[24px] md:hidden">
           <img src="./Profile Pic.svg" alt="" />
             <button

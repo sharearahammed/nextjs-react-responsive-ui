@@ -31,6 +31,12 @@ const SectionOne = () => {
         </div>
         <div className="mt-0">
             <h1 className="font-bold text-[26px] mb-2">Photos</h1>
+            <div>
+                <img src="" alt="" />
+                <img src="" alt="" />
+                <img src="" alt="" />
+                <img src="" alt="" />
+            </div>
         </div>
       </div>
     </div>
