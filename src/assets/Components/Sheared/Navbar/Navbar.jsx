@@ -6,7 +6,7 @@ const Navbar = () => {
 
   return (
     <div className="md:fixed md:flex-no-wrap md:px-16 md:top-0 md:right-0 md:left-0 md:z-10 bg-gray-950 shadow dark:bg-gray-800">
-        <nav className="relative max-w-4xl mx-auto">
+        <nav className="px-6 md:px-0 relative max-w-6xl mx-auto">
       <div className="container py-4 mx-auto md:flex md:justify-between md:items-center">
         <div className="flex items-center justify-between">
           <a href="#">
@@ -54,7 +54,7 @@ const Navbar = () => {
             isOpen ? "translate-x-0 opacity-100" : "opacity-0 -translate-x-full"
           }`}
         >
-          <div className="flex flex-col md:flex-row md:mx-2">
+          <div className="flex flex-row gap-3 md:gap-0 md:mx-2">
             <a
               className="my-2 text-gray-700 transition-colors duration-300 transform dark:text-gray-200 hover:text-blue-500 dark:hover:text-blue-400 md:mx-4 md:my-0"
               href="#"
