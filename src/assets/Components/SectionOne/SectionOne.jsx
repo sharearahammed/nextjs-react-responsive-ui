@@ -26,7 +26,7 @@ const SectionOne = () => {
         parathree="#astronomy" 
         parafour="#astrophotography" 
         parafive="+" 
-        readmore="Read more"
+        readmore="Read more" 
          />
         </div>
         <div className="mt-0">
