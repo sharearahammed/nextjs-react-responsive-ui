@@ -16,7 +16,7 @@ const Banner = () => {
                 </div>
                     <div>
                         <p className="font-bold text-[14px]">
-                        Astrophotographer 🌌<br />
+                        Astrophotographer 🌌<br /> 
                         Gamer 👾
                         </p>
                     </div>
